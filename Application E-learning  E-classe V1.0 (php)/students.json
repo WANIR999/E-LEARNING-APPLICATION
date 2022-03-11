@@ -1,0 +1,64 @@
+[
+    {
+       "id" : "1",
+      "name" : "username",
+       "email" : "user@gmail.com",
+       "phone" : "7305477760",
+       "enroll_number" : "1234567305477760",
+       "date_of_addmission" : "08-Dec, 2021"
+    },
+    {
+      "id" : "2",
+     "name" : "username",
+      "email" : "user@gmail.com",
+      "phone" : "7305477760",
+      "enroll_number" : "1234567305477760",
+      "date_of_addmission" : "08-Dec, 2021"
+   },
+   {
+      "id" : "3",
+     "name" : "username",
+      "email" : "user@gmail.com",
+      "phone" : "7305477760",
+      "enroll_number" : "1234567305477760",
+      "date_of_addmission" : "08-Dec, 2021"
+   
+   },
+   {
+      "id" : "4",
+     "name" : "wanir",
+      "email" : "user@gmail.com",
+      "phone" : "7305477760",
+      "enroll_number" : "1234567305477760",
+      "date_of_addmission" : "08-Dec, 2021"
+   
+   },
+   {
+      "id" : "5",
+     "name" : "username",
+      "email" : "user@gmail.com",
+      "phone" : "7305477760",
+      "enroll_number" : "1234567305477760",
+      "date_of_addmission" : "08-Dec, 2021"
+   
+   },
+   {
+      "id" : "6",
+     "name" : "username",
+      "email" : "user@gmail.com",
+      "phone" : "7305477760",
+      "enroll_number" : "1234567305477760",
+      "date_of_addmission" : "08-Dec, 2021"
+   
+   },
+   {
+      "id" : "7",
+     "name" : "username",
+      "email" : "user@gmail.com",
+      "phone" : "7305477760",
+      "enroll_number" : "1234567305477760",
+      "date_of_addmission" : "08-Dec, 2021"
+   
+   }
+   
+]

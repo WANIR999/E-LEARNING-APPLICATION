@@ -1,0 +1,47 @@
+[
+    {
+        "id": "61f6ead3dbff9",
+        "name": "wanir mohammed",
+        "payment_schedule": "second",
+        "bill_number": "76",
+        "amount_paid": "12345",
+        "balance_amount": "123445666",
+        "date": "2022-01-06"
+    },
+    {
+        "id": "61f6ee626bb2a",
+        "name": "karthi",
+        "payment_schedule": "first",
+        "bill_number": "00012223",
+        "amount_paid": "DHS 100,000",
+        "balance_amount": "DHS 500,000",
+        "date": "2022-01-05"
+    },
+    {
+        "id": "61f6ee6dd6fbe",
+        "name": "karthi",
+        "payment_schedule": "first",
+        "bill_number": "00012223",
+        "amount_paid": "DHS 100,000",
+        "balance_amount": "DHS 500,000",
+        "date": "2022-01-05"
+    },
+    {
+        "id": "61f6ee717c119",
+        "name": "karthi",
+        "payment_schedule": "first",
+        "bill_number": "00012223",
+        "amount_paid": "DHS 100,000",
+        "balance_amount": "DHS 500,000",
+        "date": "2022-01-05"
+    },
+    {
+        "id": "61f6ee7646a40",
+        "name": "karthi",
+        "payment_schedule": "first",
+        "bill_number": "00012223",
+        "amount_paid": "DHS 100,000",
+        "balance_amount": "DHS 500,000",
+        "date": "2022-01-05"
+    }
+]
